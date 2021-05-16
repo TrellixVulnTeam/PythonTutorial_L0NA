@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/najmul/Work/Python/PythonTutorial/Matplotlib/venv"
+set -gx VIRTUAL_ENV "/home/najmul-csebuet/Work/Python/PythonTutorial/Matplotlib/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
